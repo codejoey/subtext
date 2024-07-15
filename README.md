@@ -1,5 +1,9 @@
 SubText - TreeHacks 2024 
 ====
+
+demo: https://www.youtube.com/watch?v=o81wBBLvaso
+devpost: https://devpost.com/software/subtext
+
 ## Inspiration
 Deaf and hearing-impaired individuals rely heavily on reading subtitles to understand the words that their unimpaired counterparts can easily hear. However, these subtitles do little justice to anything more than the words spoken in the audio. Tone of voice and volume of expression are deeply important elements to human communcation, but those who cannot hear are constantly deprived of them. SubText is designed to create an means through which emotion can be read, not simply heard: to make the experience of emotion through recorded words accessible to all.
 
